@@ -1,4 +1,4 @@
-CREATE TABLE intern_applications ( -- create client table
+CREATE TABLE intern_applications ( -- create table
     candidate_id INT,
     application_date DATE,
     stage TEXT,
@@ -166,3 +166,4 @@ GROUP BY gender
 ORDER BY gender;
 
 ------------------------------------------------------------------------------------------------
+
