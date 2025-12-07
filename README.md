@@ -13,11 +13,28 @@ The focus of the project is on:
 This project demonstrates my ability to combine **technical skills** with **business understanding** to deliver meaningful insights.
 
 ## Files in the Repository
-- `intern_applications.csv` – The used dataset which was generated with the help of ChatGPT.
-- `intern_applications_full.sql` – SQL script to create and analyse the dataset
-- `intern_applications_powerbi.sql` – SQL script where I refined my query to prepare the dataset for Power BI.
-- `intern_applications.pbix` – Power BI dashboard file.
-- `README.md` – This file.
+1. **`intern_applications.csv`**
+   - CSV dataset which was created with the help of ChatGPT
+
+2. **`intern_applications_full.sql`**
+   - Contains the full SQL workflow:
+     - Table creation
+     - Data cleaning (fixing messy names)
+     - Adding calculated columns (days to hire, application month, stage flags)
+     - Queries for applications, hires, and offer acceptance metrics
+   - Used to prepare and explore data.
+
+3. **`intern_applications_powerbi.sql`**
+   - Condensed query optimized for Power BI:
+     - Combines multiple metrics into a single query
+     - Provides data for visualizations such as applications by month, gender, location, university, and recruitment funnel stages
+   - Used directly as a source in Power BI.
+
+  4. **`intern_applications.pbix`**
+   - Power BI dashboard file
+
+  5. **`README.md`**
+   - This file to explain the process
 
 ## Project Overview
 The project covers:
@@ -51,43 +68,3 @@ The project covers:
 ## Notes
 - Dataset is fictional; no sensitive data included.
 - This project demonstrates SQL data preparation and Power BI dashboard building skills.
-
-
-
-
-
-
-
-
-
-# Intern Applications Analysis Project
-
-This repository contains SQL scripts and data preparation for an intern recruitment analysis project. The data and scripts were used to create a dashboard in Power BI for tracking applications, hires, and recruitment funnel metrics.
-
-## Files
-
-### SQL Files
-
-1. **`intern_applications_full.sql`**
-   - Contains the full SQL workflow:
-     - Table creation
-     - Data cleaning (fixing messy names)
-     - Adding calculated columns (days to hire, application month, stage flags)
-     - Queries for applications, hires, and offer acceptance metrics
-   - Used to prepare and explore data.
-
-2. **`intern_applications_powerbi.sql`**
-   - Condensed query optimized for Power BI:
-     - Combines multiple metrics into a single query
-     - Provides data for visualizations such as applications by month, gender, location, university, and recruitment funnel stages
-   - Used directly as a source in Power BI.
-
-## Purpose
-
-- The goal of this project is to demonstrate the use of SQL to clean, transform, and summarize recruitment data.
-- The processed data can be visualized in Power BI for dashboards showing recruitment KPIs, time metrics, and breakdowns by location, university, and gender.
-
-## Notes
-
-- The data used is **non-sensitive and was generated with the help of chatgpt**.
-- This repository is intended for learning, demonstration, and portfolio purposes.
