@@ -63,7 +63,7 @@ The project covers:
 - Interactive visuals with slicers for filtering by university, location, gender, and offer acceptance
 
 ## Dashboard Preview
-![Dashboard Screenshot](images/dashboard.png)
+![Dashboard Screenshot](images/Dashboard.png)
 
 ## Notes
 - Dataset is fictional; no sensitive data included.
