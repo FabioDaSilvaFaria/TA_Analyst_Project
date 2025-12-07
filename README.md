@@ -14,7 +14,7 @@ This project demonstrates my ability to combine **technical skills** with **busi
 
 ## Files in the Repository
 1. **`intern_applications.csv`**  
-   - CSV dataset which was created with the help of ChatGPT.
+   - CSV dataset which was created with the help of ChatGPT
 
 2. **`intern_applications_full.sql`**  
    - Contains the full SQL workflow:
@@ -22,13 +22,13 @@ This project demonstrates my ability to combine **technical skills** with **busi
      - Data cleaning (fixing messy names)
      - Adding calculated columns (days to hire, application month, stage flags)
      - Queries for applications, hires, and offer acceptance metrics
-   - Used to prepare and explore data.
+   - Used to prepare and explore data
 
 3. **`intern_applications_powerbi.sql`**  
    - Condensed query optimized for Power BI:
      - Combines multiple metrics into a single query
      - Provides data for visualizations such as applications by month, gender, location, university, and recruitment funnel stages
-   - Used directly as a source in Power BI.
+   - Used directly as a source in Power BI
 
 4. **`intern_applications.pbix`**  
    - Power BI dashboard file
@@ -95,7 +95,7 @@ DIVIDE(
     [Offer Accepted],
     [Offer Accepted] + [Offer Rejected],
     0
-)
+);
 
 These measures were used to power KPI cards, funnels, line/column charts, and interactive slicers.
 
