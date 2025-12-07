@@ -95,8 +95,8 @@ DIVIDE(
     [Offer Accepted],
     [Offer Accepted] + [Offer Rejected],
     0
-);
-
+)
+```DAX
 These measures were used to power KPI cards, funnels, line/column charts, and interactive slicers.
 
 ## Project Overview
