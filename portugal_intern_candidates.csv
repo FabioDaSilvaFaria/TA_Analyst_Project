@@ -1,0 +1,501 @@
+﻿candidate_id,application_date,stage,university,gender,offer_accepted,offer_acceptance_date,location
+1,24/09/2025,Phone Screen,Universidade de Aveiro,M,,,SantarÃ©m
+2,25/06/2025,Rejected,Universidade de Lisboa,M,,,Aveiro
+3,23/11/2025,Offer,Universidade do Algarve,M,No,,Lisboa
+4,30/06/2025,Interview,Universidade de Lisboa,M,,,Porto
+5,23/10/2025,Applied,Universidade Nova de Lisboa,M,,,Faro
+6,03/12/2025,Applied,Universidade do Minho,F,,,Coimbra
+7,26/06/2025,Applied,Universidade de Coimbra,M,,,Viseu
+8,23/11/2025,Hired,Universidade de Aveiro,F,Yes,16/12/2025,Coimbra
+9,14/06/2025,Interview,Universidade do Porto,F,,,Faro
+10,09/06/2025,Offer,Universidade de Coimbra,M,No,,Faro
+11,03/11/2025,Applied,Universidade Nova de Lisboa,F,,,Porto
+12,20/09/2025,Rejected,Universidade do Algarve,F,,,Faro
+13,12/10/2025,Hired,Universidade do Porto,F,Yes,21/11/2025,Leiria
+14,23/07/2025,Phone Screen,Universidade da Madeira,F,,,Lisboa
+15,19/08/2025,Applied,Universidade da Beira Interior,F,,,Ã‰vora
+16,22/06/2025,Applied,Universidade do Porto,F,,,Faro
+17,11/08/2025,Phone Screen,Universidade Nova de Lisboa,M,,,Coimbra
+18,15/06/2025,Interview,Universidade de Ã‰vora,F,,,Faro
+19,29/09/2025,Phone Screen,Universidade da Beira Interior,F,,,SantarÃ©m
+20,08/10/2025,Phone Screen,Universidade de Lisboa,F,,,Lisboa
+21,22/10/2025,Interview,Universidade de Aveiro,M,,,Leiria
+22,14/09/2025,Applied,Universidade de Lisboa,F,,,Leiria
+23,16/11/2025,Phone Screen,Universidade do Porto,M,,,Madeira
+24,14/11/2025,Phone Screen,Universidade de Lisboa,F,,,Leiria
+25,22/10/2025,Interview,Universidade Nova de Lisboa,M,,,Madeira
+26,18/11/2025,Hired,Universidade da Madeira,M,Yes,11/12/2025,Aveiro
+27,20/08/2025,Applied,Universidade do Algarve,F,,,Viseu
+28,19/08/2025,Interview,Universidade de Aveiro,F,,,Braga
+29,18/09/2025,Interview,Universidade de Lisboa,M,,,Leiria
+30,31/08/2025,Applied,Universidade de Lisboa,F,,,Ã‰vora
+31,01/07/2025,Interview,Universidade do Porto,M,,,SantarÃ©m
+32,19/08/2025,Applied,Universidade do Algarve,M,,,SetÃºbal
+33,29/07/2025,Applied,Universidade de Coimbra,M,,,Aveiro
+34,05/11/2025,Rejected,Universidade de Lisboa,M,,,Leiria
+35,26/06/2025,Rejected,Universidade Nova de Lisboa,M,,,Viseu
+36,25/06/2025,Hired,Universidade de Ã‰vora,F,Yes,24/07/2025,Madeira
+37,10/09/2025,Phone Screen,Universidade de Aveiro,M,,,Coimbra
+38,04/09/2025,Applied,Universidade de Lisboa,M,,,SetÃºbal
+39,23/11/2025,Offer,Universidade Nova de Lisboa,F,No,,Viseu
+40,27/06/2025,Phone Screen,Universidade Nova de Lisboa,M,,,Viseu
+41,12/09/2025,Applied,Universidade de Aveiro,F,,,Leiria
+42,28/07/2025,Interview,Universidade de Coimbra,F,,,Aveiro
+43,15/07/2025,Applied,Universidade Nova de Lisboa,F,,,SetÃºbal
+44,01/10/2025,Rejected,Universidade de Ã‰vora,M,,,Porto
+45,01/07/2025,Phone Screen,Universidade Nova de Lisboa,M,,,Braga
+46,18/08/2025,Offer,Universidade Nova de Lisboa,M,Yes,11/09/2025,Porto
+47,29/10/2025,Phone Screen,Universidade Nova de Lisboa,F,,,SantarÃ©m
+48,19/10/2025,Interview,Universidade da Madeira,M,,,SetÃºbal
+49,15/08/2025,Interview,Universidade da Madeira,F,,,Porto
+50,14/07/2025,Applied,Universidade de Coimbra,M,,,Leiria
+51,10/06/2025,Rejected,Universidade de Lisboa,F,,,Lisboa
+52,17/11/2025,Hired,Universidade Nova de Lisboa,M,Yes,25/12/2025,Madeira
+53,24/06/2025,Rejected,Universidade do Algarve,M,,,Lisboa
+54,12/11/2025,Hired,Universidade de Lisboa,M,Yes,22/12/2025,Faro
+55,06/06/2025,Interview,Universidade de Coimbra,F,,,Porto
+56,07/07/2025,Rejected,Universidade do Minho,F,,,SantarÃ©m
+57,15/07/2025,Applied,Universidade de Lisboa,M,,,Faro
+58,31/10/2025,Applied,Universidade de Lisboa,M,,,Coimbra
+59,05/08/2025,Applied,Universidade da Beira Interior,F,,,Ã‰vora
+60,02/11/2025,Phone Screen,Universidade do Porto,F,,,Coimbra
+61,26/06/2025,Phone Screen,Universidade da Beira Interior,F,,,SetÃºbal
+62,12/10/2025,Phone Screen,Universidade de Ã‰vora,M,,,Viseu
+63,30/10/2025,Hired,Universidade da Madeira,F,Yes,08/12/2025,Madeira
+64,28/06/2025,Phone Screen,Universidade da Madeira,M,,,Porto
+65,11/07/2025,Phone Screen,Universidade do Porto,F,,,SantarÃ©m
+66,03/12/2025,Interview,Universidade de Aveiro,M,,,SantarÃ©m
+67,04/07/2025,Applied,Universidade de Aveiro,F,,,Aveiro
+68,27/08/2025,Hired,Universidade de Coimbra,F,Yes,09/10/2025,Ã‰vora
+69,25/11/2025,Applied,Universidade do Porto,F,,,Braga
+70,01/07/2025,Rejected,Universidade de Lisboa,F,,,Braga
+71,07/07/2025,Hired,Universidade de Aveiro,F,Yes,31/07/2025,Braga
+72,06/11/2025,Applied,Universidade Nova de Lisboa,M,,,Porto
+73,24/10/2025,Applied,Universidade do Algarve,F,,,Braga
+74,17/09/2025,Hired,Universidade de Lisboa,F,Yes,09/10/2025,Leiria
+75,28/11/2025,Offer,Universidade de Ã‰vora,F,No,,Lisboa
+76,27/06/2025,Offer,Universidade Nova de Lisboa,M,No,,SantarÃ©m
+77,05/10/2025,Hired,Universidade Nova de Lisboa,F,Yes,12/11/2025,Ã‰vora
+78,29/06/2025,Applied,Universidade do Porto,M,,,Lisboa
+79,04/09/2025,Phone Screen,Universidade de Coimbra,F,,,Viseu
+80,17/10/2025,Applied,Universidade de Ã‰vora,F,,,Ã‰vora
+81,21/08/2025,Hired,Universidade de Aveiro,M,Yes,20/09/2025,Lisboa
+82,03/11/2025,Interview,Universidade do Porto,F,,,Ã‰vora
+83,06/06/2025,Phone Screen,Universidade de Aveiro,M,,,Viseu
+84,21/10/2025,Applied,Universidade do Porto,M,,,Faro
+85,30/07/2025,Phone Screen,Universidade do Porto,F,,,Leiria
+86,22/08/2025,Phone Screen,Universidade do Porto,M,,,Porto
+87,22/11/2025,Offer,Universidade de Coimbra,F,No,,Porto
+88,10/07/2025,Interview,Universidade do Porto,F,,,SantarÃ©m
+89,01/09/2025,Hired,Universidade do Minho,M,Yes,02/10/2025,Braga
+90,15/06/2025,Interview,Universidade do Algarve,M,,,Leiria
+91,21/07/2025,Applied,Universidade de Aveiro,M,,,Coimbra
+92,09/11/2025,Offer,Universidade de Lisboa,M,Yes,19/12/2025,Braga
+93,11/09/2025,Hired,Universidade da Beira Interior,F,Yes,22/10/2025,SantarÃ©m
+94,11/09/2025,Interview,Universidade de Ã‰vora,F,,,SetÃºbal
+95,08/10/2025,Hired,Universidade da Madeira,M,Yes,27/10/2025,Leiria
+96,12/11/2025,Interview,Universidade de Coimbra,F,,,Lisboa
+97,11/11/2025,Interview,Universidade de Lisboa,F,,,Ã‰vora
+98,31/08/2025,Phone Screen,Universidade Nova de Lisboa,F,,,Coimbra
+99,04/12/2025,Applied,Universidade do Minho,F,,,Leiria
+100,28/09/2025,Applied,Universidade da Madeira,M,,,Viseu
+101,29/11/2025,Applied,Universidade da Beira Interior,M,,,SetÃºbal
+102,26/06/2025,Interview,Universidade de Lisboa,F,,,Viseu
+103,24/09/2025,Phone Screen,Universidade da Madeira,M,,,Porto
+104,17/06/2025,Interview,Universidade de Lisboa,M,,,Porto
+105,28/10/2025,Rejected,Universidade do Minho,M,,,Braga
+106,03/09/2025,Phone Screen,Universidade da Beira Interior,F,,,Lisboa
+107,16/08/2025,Phone Screen,Universidade Nova de Lisboa,F,,,Coimbra
+108,25/10/2025,Hired,Universidade do Porto,F,Yes,12/11/2025,Madeira
+109,08/10/2025,Phone Screen,Universidade de Aveiro,M,,,SetÃºbal
+110,07/06/2025,Applied,Universidade Nova de Lisboa,F,,,SetÃºbal
+111,12/10/2025,Phone Screen,Universidade do Porto,F,,,Leiria
+112,25/11/2025,Applied,Universidade de Coimbra,M,,,Braga
+113,21/10/2025,Rejected,Universidade do Algarve,F,,,Porto
+114,12/11/2025,Hired,Universidade de Ã‰vora,F,Yes,14/12/2025,Braga
+115,02/07/2025,Interview,Universidade de Ã‰vora,M,,,Ã‰vora
+116,07/10/2025,Hired,Universidade de Aveiro,M,Yes,14/11/2025,Leiria
+117,20/08/2025,Hired,Universidade da Beira Interior,M,Yes,22/09/2025,Leiria
+118,05/11/2025,Applied,Universidade do Minho,F,,,Coimbra
+119,26/10/2025,Hired,Universidade da Beira Interior,F,Yes,13/11/2025,Lisboa
+120,22/10/2025,Interview,Universidade do Minho,F,,,SantarÃ©m
+121,01/09/2025,Hired,Universidade da Beira Interior,M,Yes,13/10/2025,Faro
+122,09/08/2025,Hired,Universidade do Algarve,M,Yes,30/08/2025,SantarÃ©m
+123,16/07/2025,Phone Screen,Universidade de Coimbra,F,,,Aveiro
+124,01/07/2025,Applied,Universidade de Coimbra,F,,,Aveiro
+125,09/10/2025,Phone Screen,Universidade do Porto,M,,,Leiria
+126,05/11/2025,Phone Screen,Universidade da Madeira,M,,,Braga
+127,23/07/2025,Hired,Universidade de Coimbra,M,Yes,16/08/2025,Ã‰vora
+128,06/06/2025,Hired,Universidade de Coimbra,M,Yes,15/07/2025,Coimbra
+129,28/08/2025,Applied,Universidade Nova de Lisboa,F,,,Madeira
+130,30/06/2025,Interview,Universidade Nova de Lisboa,M,,,Aveiro
+131,27/11/2025,Phone Screen,Universidade do Porto,F,,,Coimbra
+132,29/09/2025,Phone Screen,Universidade da Madeira,F,,,Leiria
+133,22/09/2025,Applied,Universidade de Aveiro,F,,,Lisboa
+134,24/09/2025,Phone Screen,Universidade Nova de Lisboa,M,,,Viseu
+135,31/08/2025,Rejected,Universidade de Aveiro,M,,,SantarÃ©m
+136,04/10/2025,Phone Screen,Universidade de Lisboa,M,,,Ã‰vora
+137,06/07/2025,Interview,Universidade Nova de Lisboa,M,,,Porto
+138,10/08/2025,Offer,Universidade do Algarve,F,Yes,11/09/2025,Coimbra
+139,25/09/2025,Phone Screen,Universidade da Madeira,M,,,Lisboa
+140,26/11/2025,Rejected,Universidade do Porto,M,,,Madeira
+141,02/08/2025,Rejected,Universidade de Lisboa,F,,,Faro
+142,18/10/2025,Phone Screen,Universidade da Madeira,M,,,SantarÃ©m
+143,09/10/2025,Interview,Universidade do Algarve,F,,,Porto
+144,16/09/2025,Phone Screen,Universidade da Madeira,F,,,SantarÃ©m
+145,09/06/2025,Phone Screen,Universidade do Algarve,F,,,Leiria
+146,08/08/2025,Applied,Universidade do Algarve,F,,,Faro
+147,24/08/2025,Interview,Universidade de Aveiro,F,,,SantarÃ©m
+148,25/11/2025,Interview,Universidade da Beira Interior,F,,,Madeira
+149,20/06/2025,Applied,Universidade de Lisboa,F,,,Lisboa
+150,05/08/2025,Phone Screen,Universidade da Madeira,F,,,Aveiro
+151,23/10/2025,Rejected,Universidade do Minho,M,,,Faro
+152,25/08/2025,Phone Screen,Universidade de Lisboa,M,,,Leiria
+153,13/06/2025,Applied,Universidade da Beira Interior,M,,,Porto
+154,16/10/2025,Interview,Universidade de Lisboa,M,,,Braga
+155,30/09/2025,Rejected,Universidade de Coimbra,F,,,SetÃºbal
+156,15/10/2025,Phone Screen,Universidade do Minho,M,,,Coimbra
+157,04/07/2025,Offer,Universidade da Beira Interior,F,Yes,06/08/2025,SantarÃ©m
+158,29/07/2025,Hired,Universidade de Aveiro,M,Yes,16/08/2025,Aveiro
+159,03/07/2025,Phone Screen,Universidade da Madeira,M,,,Faro
+160,01/07/2025,Offer,Universidade de Ã‰vora,M,Yes,25/07/2025,SantarÃ©m
+161,22/09/2025,Phone Screen,Universidade da Beira Interior,F,,,Viseu
+162,27/07/2025,Interview,Universidade do Porto,M,,,Coimbra
+163,12/08/2025,Interview,Universidade da Madeira,F,,,Braga
+164,23/08/2025,Interview,Universidade da Beira Interior,F,,,Madeira
+165,01/09/2025,Applied,Universidade de Coimbra,M,,,SetÃºbal
+166,19/07/2025,Hired,Universidade de Ã‰vora,M,Yes,03/08/2025,Lisboa
+167,29/09/2025,Phone Screen,Universidade de Coimbra,M,,,SantarÃ©m
+168,05/06/2025,Applied,Universidade de Ã‰vora,F,,,Braga
+169,22/11/2025,Applied,Universidade do Porto,M,,,Braga
+170,07/09/2025,Interview,Universidade da Madeira,F,,,Madeira
+171,03/10/2025,Offer,Universidade de Aveiro,F,Yes,09/11/2025,Ã‰vora
+172,21/08/2025,Applied,Universidade de Coimbra,M,,,Madeira
+173,23/11/2025,Interview,Universidade de Coimbra,M,,,SantarÃ©m
+174,28/09/2025,Phone Screen,Universidade do Algarve,F,,,Ã‰vora
+175,07/08/2025,Interview,Universidade de Ã‰vora,F,,,Ã‰vora
+176,27/10/2025,Applied,Universidade Nova de Lisboa,F,,,Aveiro
+177,20/07/2025,Offer,Universidade da Madeira,M,Yes,21/08/2025,Aveiro
+178,14/06/2025,Phone Screen,Universidade de Ã‰vora,F,,,Porto
+179,25/07/2025,Rejected,Universidade do Algarve,M,,,Faro
+180,19/10/2025,Applied,Universidade de Lisboa,F,,,Faro
+181,14/11/2025,Phone Screen,Universidade de Ã‰vora,F,,,Leiria
+182,05/08/2025,Applied,Universidade de Aveiro,M,,,Lisboa
+183,30/09/2025,Rejected,Universidade da Madeira,F,,,Faro
+184,18/10/2025,Hired,Universidade do Algarve,M,Yes,06/11/2025,Aveiro
+185,05/09/2025,Phone Screen,Universidade de Lisboa,M,,,Porto
+186,18/07/2025,Offer,Universidade do Minho,F,Yes,16/08/2025,Porto
+187,25/10/2025,Hired,Universidade do Algarve,M,Yes,25/11/2025,Ã‰vora
+188,15/09/2025,Interview,Universidade do Minho,M,,,Leiria
+189,20/10/2025,Interview,Universidade da Madeira,F,,,Madeira
+190,13/07/2025,Phone Screen,Universidade de Coimbra,M,,,Lisboa
+191,27/10/2025,Applied,Universidade do Algarve,M,,,SantarÃ©m
+192,05/06/2025,Hired,Universidade do Porto,M,Yes,22/06/2025,Ã‰vora
+193,20/09/2025,Rejected,Universidade do Minho,F,,,Madeira
+194,11/11/2025,Interview,Universidade de Aveiro,M,,,Faro
+195,29/07/2025,Phone Screen,Universidade do Porto,F,,,Leiria
+196,18/08/2025,Phone Screen,Universidade da Beira Interior,F,,,Ã‰vora
+197,18/07/2025,Offer,Universidade da Beira Interior,M,No,,Coimbra
+198,04/09/2025,Hired,Universidade de Lisboa,M,Yes,30/09/2025,Faro
+199,10/10/2025,Hired,Universidade de Coimbra,M,Yes,26/10/2025,Madeira
+200,06/08/2025,Hired,Universidade da Madeira,F,Yes,21/08/2025,Lisboa
+201,06/06/2025,Interview,Universidade do Algarve,M,,,SantarÃ©m
+202,28/07/2025,Applied,Universidade Nova de Lisboa,M,,,Madeira
+203,09/07/2025,Applied,Universidade de Aveiro,M,,,Ã‰vora
+204,03/07/2025,Hired,Universidade do Minho,M,Yes,09/08/2025,Ã‰vora
+205,12/07/2025,Interview,Universidade da Madeira,M,,,SantarÃ©m
+206,26/11/2025,Applied,Universidade do Porto,F,,,Braga
+207,09/11/2025,Applied,Universidade da Beira Interior,F,,,Lisboa
+208,26/06/2025,Offer,Universidade de Aveiro,M,No,,Viseu
+209,13/09/2025,Applied,Universidade Nova de Lisboa,M,,,Faro
+210,18/09/2025,Applied,Universidade do Algarve,M,,,Porto
+211,14/06/2025,Interview,Universidade de Lisboa,M,,,SantarÃ©m
+212,04/08/2025,Offer,Universidade Nova de Lisboa,F,No,,Lisboa
+213,27/10/2025,Offer,Universidade de Aveiro,M,Yes,01/12/2025,Porto
+214,14/08/2025,Phone Screen,Universidade Nova de Lisboa,F,,,Lisboa
+215,15/08/2025,Offer,Universidade de Aveiro,F,Yes,15/09/2025,Lisboa
+216,16/06/2025,Phone Screen,Universidade de Aveiro,M,,,Madeira
+217,19/07/2025,Phone Screen,Universidade de Ã‰vora,F,,,Lisboa
+218,03/08/2025,Offer,Universidade do Minho,F,Yes,08/09/2025,Braga
+219,06/08/2025,Interview,Universidade da Beira Interior,F,,,Viseu
+220,06/06/2025,Hired,Universidade de Ã‰vora,F,Yes,06/07/2025,Ã‰vora
+221,27/09/2025,Offer,Universidade do Algarve,M,Yes,16/10/2025,SetÃºbal
+222,12/08/2025,Interview,Universidade de Ã‰vora,M,,,Porto
+223,09/07/2025,Applied,Universidade de Coimbra,F,,,Ã‰vora
+224,17/10/2025,Phone Screen,Universidade de Coimbra,M,,,SetÃºbal
+225,07/06/2025,Phone Screen,Universidade da Beira Interior,M,,,Viseu
+226,20/09/2025,Phone Screen,Universidade Nova de Lisboa,M,,,Viseu
+227,12/08/2025,Rejected,Universidade do Minho,M,,,Porto
+228,15/11/2025,Phone Screen,Universidade da Beira Interior,M,,,Porto
+229,29/08/2025,Hired,Universidade de Aveiro,F,Yes,27/09/2025,Viseu
+230,15/09/2025,Interview,Universidade do Porto,M,,,SetÃºbal
+231,18/08/2025,Hired,Universidade do Minho,M,Yes,04/09/2025,SantarÃ©m
+232,06/11/2025,Interview,Universidade do Minho,M,,,Lisboa
+233,13/10/2025,Interview,Universidade de Aveiro,M,,,Faro
+234,03/10/2025,Interview,Universidade de Aveiro,F,,,Leiria
+235,06/09/2025,Applied,Universidade de Lisboa,F,,,Coimbra
+236,04/08/2025,Offer,Universidade da Beira Interior,F,Yes,15/09/2025,Leiria
+237,27/06/2025,Phone Screen,Universidade de Aveiro,F,,,Ã‰vora
+238,14/07/2025,Applied,Universidade de Coimbra,M,,,Madeira
+239,05/09/2025,Interview,Universidade do Algarve,F,,,Ã‰vora
+240,14/09/2025,Applied,Universidade do Porto,M,,,Madeira
+241,18/08/2025,Rejected,Universidade da Beira Interior,M,,,SetÃºbal
+242,19/08/2025,Rejected,Universidade da Madeira,M,,,Madeira
+243,28/09/2025,Rejected,Universidade de Coimbra,M,,,Porto
+244,26/06/2025,Phone Screen,Universidade Nova de Lisboa,M,,,SantarÃ©m
+245,27/09/2025,Applied,Universidade de Aveiro,F,,,Faro
+246,26/06/2025,Rejected,Universidade da Madeira,F,,,Faro
+247,16/08/2025,Phone Screen,Universidade de Aveiro,F,,,Porto
+248,09/06/2025,Rejected,Universidade do Minho,F,,,SantarÃ©m
+249,11/10/2025,Rejected,Universidade de Coimbra,M,,,Braga
+250,01/07/2025,Hired,Universidade do Minho,F,Yes,22/07/2025,Leiria
+251,09/09/2025,Phone Screen,Universidade de Lisboa,M,,,SetÃºbal
+252,29/07/2025,Phone Screen,Universidade do Minho,F,,,Leiria
+253,13/09/2025,Hired,Universidade de Lisboa,M,Yes,08/10/2025,Braga
+254,07/09/2025,Phone Screen,Universidade de Lisboa,M,,,Braga
+255,26/07/2025,Applied,Universidade da Madeira,F,,,Ã‰vora
+256,21/09/2025,Interview,Universidade de Aveiro,M,,,Viseu
+257,23/11/2025,Rejected,Universidade Nova de Lisboa,M,,,Ã‰vora
+258,06/11/2025,Offer,Universidade do Minho,F,No,,Viseu
+259,10/08/2025,Interview,Universidade de Coimbra,M,,,Coimbra
+260,01/10/2025,Applied,Universidade de Lisboa,F,,,Madeira
+261,03/08/2025,Interview,Universidade de Aveiro,F,,,SantarÃ©m
+262,16/10/2025,Rejected,Universidade do Porto,F,,,Viseu
+263,07/07/2025,Applied,Universidade da Beira Interior,M,,,Leiria
+264,25/08/2025,Interview,Universidade da Madeira,M,,,Porto
+265,21/07/2025,Hired,Universidade Nova de Lisboa,M,Yes,14/08/2025,Ã‰vora
+266,21/09/2025,Offer,Universidade de Ã‰vora,F,No,,SantarÃ©m
+267,30/06/2025,Offer,Universidade da Madeira,M,Yes,23/07/2025,SetÃºbal
+268,22/06/2025,Offer,Universidade do Porto,F,Yes,20/07/2025,SantarÃ©m
+269,17/10/2025,Phone Screen,Universidade da Beira Interior,F,,,Madeira
+270,26/07/2025,Phone Screen,Universidade do Porto,M,,,Coimbra
+271,06/10/2025,Hired,Universidade do Minho,F,Yes,02/11/2025,Viseu
+272,17/09/2025,Hired,Universidade de Lisboa,M,Yes,30/10/2025,Coimbra
+273,06/06/2025,Hired,Universidade Nova de Lisboa,M,Yes,15/07/2025,SetÃºbal
+274,31/10/2025,Rejected,Universidade do Algarve,M,,,Braga
+275,02/10/2025,Interview,Universidade de Lisboa,M,,,Faro
+276,11/06/2025,Interview,Universidade do Algarve,M,,,SetÃºbal
+277,21/07/2025,Hired,Universidade da Beira Interior,F,Yes,03/09/2025,Aveiro
+278,22/10/2025,Interview,Universidade de Aveiro,F,,,SetÃºbal
+279,17/07/2025,Offer,Universidade de Ã‰vora,F,Yes,25/08/2025,Coimbra
+280,11/06/2025,Hired,Universidade de Coimbra,M,Yes,27/06/2025,SantarÃ©m
+281,26/11/2025,Hired,Universidade de Lisboa,M,Yes,13/12/2025,Porto
+282,30/10/2025,Phone Screen,Universidade Nova de Lisboa,M,,,Ã‰vora
+283,13/11/2025,Phone Screen,Universidade do Porto,F,,,Porto
+284,28/11/2025,Applied,Universidade Nova de Lisboa,M,,,Coimbra
+285,28/09/2025,Interview,Universidade da Beira Interior,F,,,Ã‰vora
+286,21/10/2025,Applied,Universidade do Algarve,F,,,Aveiro
+287,09/11/2025,Interview,Universidade do Porto,M,,,Faro
+288,16/11/2025,Interview,Universidade de Coimbra,M,,,Madeira
+289,02/08/2025,Phone Screen,Universidade de Coimbra,F,,,Leiria
+290,09/08/2025,Interview,Universidade de Lisboa,M,,,Coimbra
+291,23/08/2025,Applied,Universidade da Beira Interior,F,,,SantarÃ©m
+292,27/08/2025,Applied,Universidade de Aveiro,M,,,Viseu
+293,08/08/2025,Hired,Universidade da Beira Interior,M,Yes,29/08/2025,Coimbra
+294,08/07/2025,Phone Screen,Universidade do Algarve,F,,,Coimbra
+295,17/07/2025,Applied,Universidade Nova de Lisboa,M,,,Ã‰vora
+296,10/08/2025,Interview,Universidade de Coimbra,F,,,Lisboa
+297,09/10/2025,Hired,Universidade Nova de Lisboa,M,Yes,13/11/2025,SetÃºbal
+298,31/07/2025,Phone Screen,Universidade Nova de Lisboa,F,,,SantarÃ©m
+299,07/06/2025,Interview,Universidade Nova de Lisboa,F,,,Lisboa
+300,28/11/2025,Applied,Universidade de Coimbra,M,,,Aveiro
+301,28/09/2025,Applied,Universidade da Madeira,F,,,Viseu
+302,11/10/2025,Interview,Universidade do Minho,M,,,Faro
+303,18/09/2025,Interview,Universidade do Algarve,M,,,Braga
+304,09/09/2025,Interview,Universidade da Madeira,M,,,Aveiro
+305,09/09/2025,Offer,Universidade do Algarve,F,Yes,11/10/2025,Braga
+306,02/07/2025,Rejected,Universidade do Porto,F,,,SantarÃ©m
+307,21/09/2025,Interview,Universidade da Beira Interior,M,,,SantarÃ©m
+308,09/07/2025,Phone Screen,Universidade da Beira Interior,M,,,Braga
+309,09/09/2025,Hired,Universidade de Ã‰vora,F,Yes,26/09/2025,SantarÃ©m
+310,18/07/2025,Phone Screen,Universidade da Beira Interior,M,,,Faro
+311,26/09/2025,Phone Screen,Universidade de Coimbra,M,,,Porto
+312,12/09/2025,Applied,Universidade de Aveiro,F,,,Lisboa
+313,12/07/2025,Applied,Universidade de Lisboa,M,,,Coimbra
+314,25/06/2025,Rejected,Universidade de Ã‰vora,F,,,Madeira
+315,29/08/2025,Hired,Universidade de Lisboa,M,Yes,22/09/2025,Braga
+316,01/12/2025,Offer,Universidade do Algarve,F,No,,Viseu
+317,13/07/2025,Phone Screen,Universidade de Lisboa,M,,,Aveiro
+318,12/08/2025,Applied,Universidade de Lisboa,M,,,Porto
+319,10/11/2025,Applied,Universidade de Ã‰vora,F,,,Braga
+320,16/06/2025,Phone Screen,Universidade do Porto,M,,,Porto
+321,12/10/2025,Interview,Universidade Nova de Lisboa,F,,,Porto
+322,02/07/2025,Offer,Universidade da Beira Interior,M,Yes,07/08/2025,Braga
+323,14/11/2025,Offer,Universidade da Beira Interior,F,Yes,27/12/2025,Ã‰vora
+324,18/08/2025,Phone Screen,Universidade de Coimbra,F,,,SetÃºbal
+325,24/10/2025,Rejected,Universidade de Ã‰vora,F,,,Viseu
+326,03/10/2025,Offer,Universidade de Coimbra,F,Yes,24/10/2025,Coimbra
+327,22/07/2025,Interview,Universidade de Aveiro,M,,,Coimbra
+328,14/06/2025,Interview,Universidade de Aveiro,M,,,Viseu
+329,14/06/2025,Phone Screen,Universidade de Coimbra,F,,,Ã‰vora
+330,01/10/2025,Phone Screen,Universidade de Ã‰vora,F,,,SantarÃ©m
+331,20/09/2025,Phone Screen,Universidade de Coimbra,F,,,Coimbra
+332,21/06/2025,Hired,Universidade da Beira Interior,M,Yes,14/07/2025,Porto
+333,31/10/2025,Applied,Universidade da Madeira,M,,,Faro
+334,07/08/2025,Applied,Universidade do Minho,M,,,Aveiro
+335,08/06/2025,Applied,Universidade de Lisboa,M,,,Lisboa
+336,01/07/2025,Applied,Universidade do Minho,F,,,Coimbra
+337,01/11/2025,Hired,Universidade de Ã‰vora,F,Yes,02/12/2025,Viseu
+338,07/07/2025,Offer,Universidade do Minho,F,Yes,01/08/2025,Faro
+339,02/09/2025,Interview,Universidade de Aveiro,M,,,Braga
+340,27/09/2025,Applied,Universidade do Algarve,M,,,SetÃºbal
+341,12/07/2025,Interview,Universidade de Lisboa,M,,,Viseu
+342,29/06/2025,Interview,Universidade Nova de Lisboa,F,,,SantarÃ©m
+343,09/08/2025,Applied,Universidade de Ã‰vora,F,,,Porto
+344,02/12/2025,Phone Screen,Universidade de Lisboa,M,,,SetÃºbal
+345,12/11/2025,Phone Screen,Universidade do Minho,F,,,Aveiro
+346,31/10/2025,Interview,Universidade de Aveiro,M,,,Aveiro
+347,25/11/2025,Interview,Universidade do Porto,M,,,Ã‰vora
+348,13/08/2025,Applied,Universidade da Madeira,F,,,Madeira
+349,09/11/2025,Phone Screen,Universidade Nova de Lisboa,M,,,Ã‰vora
+350,05/08/2025,Interview,Universidade da Madeira,F,,,SantarÃ©m
+351,07/06/2025,Interview,Universidade de Lisboa,M,,,Faro
+352,17/07/2025,Hired,Universidade de Aveiro,F,Yes,07/08/2025,SetÃºbal
+353,15/07/2025,Offer,Universidade de Aveiro,F,No,,Madeira
+354,19/11/2025,Applied,Universidade do Minho,F,,,Braga
+355,19/09/2025,Applied,Universidade da Beira Interior,M,,,Porto
+356,20/08/2025,Interview,Universidade do Minho,M,,,SetÃºbal
+357,28/11/2025,Applied,Universidade da Beira Interior,F,,,Ã‰vora
+358,08/11/2025,Interview,Universidade da Beira Interior,F,,,Lisboa
+359,10/07/2025,Rejected,Universidade Nova de Lisboa,M,,,Leiria
+360,30/09/2025,Interview,Universidade do Minho,M,,,Madeira
+361,07/10/2025,Phone Screen,Universidade do Porto,M,,,Madeira
+362,06/11/2025,Interview,Universidade de Coimbra,F,,,SantarÃ©m
+363,02/12/2025,Interview,Universidade de Coimbra,M,,,Porto
+364,16/07/2025,Interview,Universidade do Minho,M,,,Coimbra
+365,29/11/2025,Rejected,Universidade do Minho,F,,,Aveiro
+366,01/09/2025,Phone Screen,Universidade da Madeira,M,,,Aveiro
+367,19/11/2025,Rejected,Universidade Nova de Lisboa,M,,,Lisboa
+368,06/07/2025,Rejected,Universidade do Minho,M,,,Faro
+369,18/11/2025,Applied,Universidade da Madeira,F,,,SantarÃ©m
+370,05/07/2025,Applied,Universidade da Beira Interior,F,,,Faro
+371,25/11/2025,Applied,Universidade de Aveiro,F,,,Braga
+372,30/06/2025,Applied,Universidade de Aveiro,F,,,SetÃºbal
+373,19/11/2025,Applied,Universidade da Beira Interior,F,,,Leiria
+374,23/08/2025,Offer,Universidade de Ã‰vora,F,Yes,30/09/2025,Viseu
+375,21/06/2025,Applied,Universidade da Madeira,F,,,Coimbra
+376,16/08/2025,Phone Screen,Universidade da Madeira,M,,,Ã‰vora
+377,06/08/2025,Hired,Universidade da Beira Interior,M,Yes,17/09/2025,Viseu
+378,24/07/2025,Applied,Universidade do Porto,F,,,Viseu
+379,09/09/2025,Hired,Universidade do Algarve,M,Yes,07/10/2025,SantarÃ©m
+380,09/06/2025,Phone Screen,Universidade de Lisboa,M,,,Madeira
+381,02/09/2025,Applied,Universidade da Beira Interior,F,,,Lisboa
+382,19/07/2025,Offer,Universidade do Minho,M,Yes,21/08/2025,Aveiro
+383,12/06/2025,Interview,Universidade do Minho,M,,,Braga
+384,23/09/2025,Hired,Universidade Nova de Lisboa,M,Yes,11/10/2025,Faro
+385,02/08/2025,Offer,Universidade da Beira Interior,M,No,,Leiria
+386,20/06/2025,Hired,Universidade Nova de Lisboa,M,Yes,30/07/2025,SantarÃ©m
+387,29/08/2025,Phone Screen,Universidade da Beira Interior,F,,,Lisboa
+388,03/12/2025,Applied,Universidade da Madeira,F,,,Madeira
+389,04/10/2025,Hired,Universidade de Lisboa,F,Yes,24/10/2025,Ã‰vora
+390,16/09/2025,Hired,Universidade da Madeira,M,Yes,10/10/2025,Braga
+391,13/11/2025,Rejected,Universidade do Algarve,F,,,SantarÃ©m
+392,28/10/2025,Phone Screen,Universidade de Aveiro,M,,,Madeira
+393,26/11/2025,Phone Screen,Universidade de Coimbra,M,,,Leiria
+394,13/10/2025,Hired,Universidade da Beira Interior,M,Yes,03/11/2025,Aveiro
+395,25/07/2025,Phone Screen,Universidade do Algarve,M,,,Aveiro
+396,22/09/2025,Rejected,Universidade de Aveiro,F,,,SantarÃ©m
+397,19/10/2025,Hired,Universidade de Ã‰vora,F,Yes,15/11/2025,Aveiro
+398,07/08/2025,Phone Screen,Universidade de Lisboa,M,,,Lisboa
+399,19/10/2025,Hired,Universidade Nova de Lisboa,F,Yes,16/11/2025,Lisboa
+400,12/10/2025,Hired,Universidade Nova de Lisboa,M,Yes,30/10/2025,Faro
+401,07/09/2025,Applied,Universidade da Madeira,F,,,SantarÃ©m
+402,25/11/2025,Rejected,Universidade do Minho,F,,,Faro
+403,18/09/2025,Interview,Universidade de Aveiro,M,,,SantarÃ©m
+404,05/06/2025,Hired,Universidade de Ã‰vora,F,Yes,27/06/2025,Ã‰vora
+405,25/11/2025,Phone Screen,Universidade do Algarve,M,,,SantarÃ©m
+406,26/10/2025,Hired,Universidade de Lisboa,F,Yes,14/11/2025,Leiria
+407,29/08/2025,Phone Screen,Universidade de Aveiro,M,,,Braga
+408,28/06/2025,Applied,Universidade de Ã‰vora,M,,,Porto
+409,24/06/2025,Rejected,Universidade de Coimbra,F,,,Porto
+410,10/11/2025,Applied,Universidade da Beira Interior,F,,,Madeira
+411,13/09/2025,Phone Screen,Universidade Nova de Lisboa,M,,,Aveiro
+412,13/09/2025,Rejected,Universidade do Algarve,F,,,Braga
+413,04/09/2025,Rejected,Universidade Nova de Lisboa,F,,,Viseu
+414,10/10/2025,Interview,Universidade do Algarve,M,,,Lisboa
+415,21/07/2025,Interview,Universidade da Madeira,M,,,SetÃºbal
+416,13/08/2025,Phone Screen,Universidade do Minho,F,,,Coimbra
+417,15/07/2025,Phone Screen,Universidade do Algarve,M,,,Ã‰vora
+418,03/10/2025,Phone Screen,Universidade Nova de Lisboa,M,,,Aveiro
+419,19/09/2025,Offer,Universidade da Madeira,M,No,,Aveiro
+420,07/07/2025,Hired,Universidade do Algarve,F,Yes,22/07/2025,Leiria
+421,14/11/2025,Hired,Universidade de Coimbra,F,Yes,02/12/2025,Aveiro
+422,18/07/2025,Hired,Universidade do Minho,M,Yes,04/08/2025,Lisboa
+423,12/09/2025,Applied,Universidade do Algarve,F,,,Lisboa
+424,16/08/2025,Interview,Universidade da Madeira,M,,,Coimbra
+425,14/11/2025,Applied,Universidade de Aveiro,F,,,SantarÃ©m
+426,11/06/2025,Interview,Universidade do Porto,M,,,Viseu
+427,17/08/2025,Phone Screen,Universidade de Ã‰vora,M,,,Braga
+428,18/09/2025,Hired,Universidade do Porto,F,Yes,11/10/2025,Aveiro
+429,27/09/2025,Phone Screen,Universidade do Porto,M,,,Porto
+430,10/09/2025,Applied,Universidade de Lisboa,F,,,Faro
+431,18/09/2025,Applied,Universidade de Coimbra,F,,,Leiria
+432,22/07/2025,Hired,Universidade de Aveiro,M,Yes,13/08/2025,Leiria
+433,20/06/2025,Interview,Universidade da Beira Interior,M,,,Porto
+434,25/10/2025,Applied,Universidade do Algarve,F,,,Madeira
+435,24/10/2025,Applied,Universidade de Ã‰vora,M,,,Porto
+436,06/11/2025,Offer,Universidade do Minho,M,No,,Madeira
+437,29/08/2025,Applied,Universidade de Aveiro,M,,,SetÃºbal
+438,03/07/2025,Hired,Universidade Nova de Lisboa,M,Yes,18/07/2025,Faro
+439,02/10/2025,Offer,Universidade da Beira Interior,M,Yes,12/11/2025,Leiria
+440,20/06/2025,Applied,Universidade de Lisboa,F,,,Porto
+441,06/06/2025,Applied,Universidade de Lisboa,F,,,SetÃºbal
+442,03/07/2025,Rejected,Universidade de Aveiro,M,,,SantarÃ©m
+443,17/11/2025,Phone Screen,Universidade da Madeira,M,,,Ã‰vora
+444,21/06/2025,Phone Screen,Universidade do Porto,M,,,Braga
+445,25/09/2025,Hired,Universidade Nova de Lisboa,F,Yes,15/10/2025,SetÃºbal
+446,10/11/2025,Rejected,Universidade de Lisboa,M,,,Braga
+447,03/10/2025,Rejected,Universidade de Ã‰vora,F,,,Porto
+448,15/07/2025,Hired,Universidade de Lisboa,F,Yes,07/08/2025,Viseu
+449,04/08/2025,Phone Screen,Universidade do Minho,F,,,SantarÃ©m
+450,14/09/2025,Applied,Universidade do Algarve,M,,,SetÃºbal
+451,24/11/2025,Hired,Universidade de Lisboa,F,Yes,15/12/2025,Faro
+452,28/07/2025,Interview,Universidade do Minho,M,,,Porto
+453,20/08/2025,Phone Screen,Universidade de Aveiro,F,,,Aveiro
+454,14/09/2025,Rejected,Universidade de Aveiro,M,,,Lisboa
+455,30/06/2025,Applied,Universidade da Beira Interior,F,,,SetÃºbal
+456,02/12/2025,Interview,Universidade de Lisboa,M,,,Faro
+457,14/07/2025,Applied,Universidade de Ã‰vora,F,,,Ã‰vora
+458,05/07/2025,Interview,Universidade de Lisboa,M,,,Aveiro
+459,01/07/2025,Applied,Universidade de Ã‰vora,M,,,Ã‰vora
+460,22/10/2025,Applied,Universidade de Coimbra,M,,,Porto
+461,02/08/2025,Applied,Universidade da Beira Interior,M,,,Lisboa
+462,23/11/2025,Interview,Universidade de Coimbra,F,,,SetÃºbal
+463,14/09/2025,Offer,Universidade de Lisboa,F,Yes,02/10/2025,SetÃºbal
+464,30/07/2025,Interview,Universidade da Beira Interior,M,,,Viseu
+465,23/11/2025,Rejected,Universidade de Coimbra,F,,,Leiria
+466,09/06/2025,Phone Screen,Universidade do Porto,M,,,Viseu
+467,13/09/2025,Phone Screen,Universidade de Lisboa,M,,,Porto
+468,31/10/2025,Hired,Universidade de Coimbra,F,Yes,27/11/2025,Porto
+469,11/09/2025,Phone Screen,Universidade do Porto,M,,,Lisboa
+470,13/08/2025,Rejected,Universidade do Porto,M,,,Viseu
+471,11/07/2025,Applied,Universidade de Aveiro,F,,,Faro
+472,15/09/2025,Rejected,Universidade de Lisboa,M,,,Faro
+473,07/08/2025,Applied,Universidade do Porto,M,,,Lisboa
+474,24/06/2025,Hired,Universidade de Aveiro,M,Yes,25/07/2025,SantarÃ©m
+475,14/09/2025,Interview,Universidade de Coimbra,M,,,Leiria
+476,25/10/2025,Rejected,Universidade do Minho,F,,,Faro
+477,06/08/2025,Applied,Universidade de Lisboa,F,,,Madeira
+478,17/06/2025,Interview,Universidade da Beira Interior,F,,,Braga
+479,08/11/2025,Rejected,Universidade de Ã‰vora,M,,,Lisboa
+480,14/10/2025,Interview,Universidade de Ã‰vora,M,,,Lisboa
+481,03/11/2025,Interview,Universidade de Coimbra,F,,,Coimbra
+482,10/08/2025,Offer,Universidade da Madeira,M,No,,Aveiro
+483,25/07/2025,Interview,Universidade da Madeira,M,,,Aveiro
+484,17/10/2025,Interview,Universidade de Coimbra,M,,,Madeira
+485,19/07/2025,Interview,Universidade do Porto,M,,,Viseu
+486,07/08/2025,Rejected,Universidade de Lisboa,F,,,SantarÃ©m
+487,22/06/2025,Applied,Universidade de Ã‰vora,F,,,Porto
+488,16/11/2025,Phone Screen,Universidade de Ã‰vora,F,,,Porto
+489,05/06/2025,Rejected,Universidade do Porto,M,,,Ã‰vora
+490,19/07/2025,Hired,Universidade de Ã‰vora,F,Yes,30/08/2025,Madeira
+491,22/10/2025,Interview,Universidade da Beira Interior,F,,,Lisboa
+492,03/09/2025,Interview,Universidade de Lisboa,M,,,Madeira
+493,30/08/2025,Phone Screen,Universidade do Algarve,M,,,Madeira
+494,21/06/2025,Applied,Universidade de Ã‰vora,F,,,Madeira
+495,06/09/2025,Interview,Universidade de Coimbra,F,,,Aveiro
+496,10/11/2025,Phone Screen,Universidade da Beira Interior,F,,,Madeira
+497,13/09/2025,Interview,Universidade de Ã‰vora,F,,,Leiria
+498,20/09/2025,Applied,Universidade da Beira Interior,M,,,Braga
+499,12/10/2025,Rejected,Universidade de Aveiro,F,,,Porto
+500,14/09/2025,Rejected,Universidade do Algarve,F,,,Ã‰vora
